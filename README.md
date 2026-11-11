@@ -1,3 +1,6 @@
+> **This fork continues as [OpenMUI](https://github.com/creep-ltx/openmui)**, a lean MUI-compatible
+> `muimaster.library` for classic AmigaOS 3.x. This fork stays only for the pull request to Zune68.
+
 # Zune68
 
 Zune for classic AmigaOS 3, starting from current AROS source.
